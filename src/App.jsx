@@ -22,7 +22,7 @@ class App extends Component {
           }
           scrollTo(id) {
             scroller.scrollTo(id, {
-              duration: 3000,
+              duration: 2000,
               delay: 0,
               smooth: 'easeInOutQuart'
             })
