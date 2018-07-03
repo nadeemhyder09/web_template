@@ -5,10 +5,7 @@ import './Div_No_4.css';
 // const sources = [];
 
 
-// hello from nauman
-// here i am Check my Changings
-// here i am Check my Changings with Nauman Bhai
-
+// hello from nauman....
 class Div_No_4 extends Component {
 
   constructor() {
