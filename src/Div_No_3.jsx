@@ -15,7 +15,7 @@ class Div_No_3 extends Component {
                <div className="col-sm-4 text-center">
                 <div className="back-img2"></div>
                 <h2 className="text-center">LOREM IPSUM</h2>
-                <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                <p className="text-center">Lorem Ipsum Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
               </div>
                <div className="col-sm-4 text-center">
                 <div className="back-img3"></div>

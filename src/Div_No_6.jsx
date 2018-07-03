@@ -48,7 +48,7 @@ handleValidation(){
    contactSubmit(){
         // e.preventDefault();
         if(this.handleValidation()){
-           alert("Form was Submitted SUCCESSFULLY !!!");
+           alert("Form is now Submitted SUCCESSFULLY !!!");
         }
 
     }
