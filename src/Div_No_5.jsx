@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 import './Div_No_5.css';
 
+<<<<<<< HEAD
 ////  permissions granted to nauman
+=======
+///  nauman is on branch master
+>>>>>>> master
 class Div_No_5 extends Component {
   render() {
     return (
