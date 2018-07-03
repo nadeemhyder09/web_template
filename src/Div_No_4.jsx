@@ -55,7 +55,7 @@ class Div_No_4 extends Component {
         <div className="main_div" id="work">
           <div className="container">
             <div className="row">
-              <h1 className="text-center heading">PORTFOLIOO</h1>
+              <h1 className="text-center heading">PORTFOLIO</h1>
               <h3 className="text-center">Ensure your Products are listed or lauch a new Brand</h3>
               <div className="button-group filters-button-group list">
                  <button className="button is-checked" onClick={() => this.opertation_all()}>ALL</button>
