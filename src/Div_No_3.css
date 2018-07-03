@@ -1,0 +1,28 @@
+.main_div {
+  background-color: #f4f7f9;
+  padding-top: 70px;
+}
+.back-img1 {
+  background-image: url("images/img-1.png");
+  height: 270px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0 auto;  
+}
+.back-img2 {
+  background-image: url("images/img-2.png");
+  height: 270px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0 auto;  
+}
+.back-img3 {
+  background-image: url("images/img-3.png");
+  height: 270px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0 auto;  
+}

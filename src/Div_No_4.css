@@ -1,0 +1,52 @@
+.heading {
+  color: red;
+  font-weight: bold;
+}
+.button-group {
+  text-align: center;
+  color: black;
+}
+.button {
+  margin: 25px;
+  padding: 5px 20px 5px 20px;
+  border: 1px solid transparent;
+  background-color: #ffffff;
+}
+.button:hover {
+  background-color: white;
+ color: black;
+ border: 1px solid black;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #d63533;
+}
+.img1:hover .overlay {
+  opacity: 0.7;
+}
+.img2 {
+  width: 100%;
+}
+.row.no-gutter {
+  margin-left: 0;
+  margin-right: 0;
+}
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+  padding-right: 0;
+  padding-left: 0;
+}
+@media (max-width: 425px) {
+  .button {
+  margin: 10px;
+  padding: 5px 5px 5px 5px;
+  border: 1px solid transparent;
+  background-color: #ffffff;
+}
+}

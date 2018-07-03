@@ -1,0 +1,32 @@
+.main_div {
+  background-color: #ffffff;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.heading {
+  color: red;
+}
+.abc {
+  padding-top: 25px;
+}
+.h4_heading {
+   padding-right: 50px;
+}
+.span1 {
+  color: red;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.no-border {
+  border: 0;
+  box-shadow: none;
+  border-bottom: 2px solid #cccccc;
+}
+.form-control:focus {
+  border-color: #cccccc;
+  box-shadow: none;
+}
+#print {
+  color: white;
+  background-color: black;
+}
