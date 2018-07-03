@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Div_No_5.css';
 
-////  nauman's branch
+////  permissions granted to nauman
 class Div_No_5 extends Component {
   render() {
     return (
